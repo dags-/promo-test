@@ -1,0 +1,11 @@
+{
+  "id": "99824915045191680",
+  "name": "Test",
+  "type": "server",
+  "description": "This is a test",
+  "media": "https://streamable.com/waiw1",
+  "discord": "",
+  "ip": "mc.someserver.com",
+  "whitelist": false,
+  "website": ""
+}
