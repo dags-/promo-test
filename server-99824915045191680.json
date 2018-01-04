@@ -5,7 +5,7 @@
   "description": "ArdaCraft is a modded Minecraft server that is aiming to recreate the world of J.R.R. Tolkien's Middle-earth.",
   "media": "https://www.youtube.com/watch?v=Ip7Z59HuIlw",
   "discord": "",
-  "ip": "mc.ardacraft.me",
+  "ip": "http://localhost:25565",
   "whitelist": false,
   "website": "https://ardacraft.me/"
 }
