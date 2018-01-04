@@ -1,11 +1,11 @@
 {
   "id": "99824915045191680",
-  "name": "Test",
+  "name": "ArdaCraft",
   "type": "server",
-  "description": "This is a test",
-  "media": "https://streamable.com/waiw1",
+  "description": "ArdaCraft is a modded Minecraft server that is aiming to recreate the world of J.R.R. Tolkien's Middle-earth.",
+  "media": "https://www.youtube.com/watch?v=Ip7Z59HuIlw",
   "discord": "",
-  "ip": "mc.someserver.com",
+  "ip": "mc.ardacraft.me",
   "whitelist": false,
-  "website": ""
+  "website": "https://ardacraft.me/"
 }
