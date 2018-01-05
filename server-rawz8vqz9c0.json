@@ -1,11 +1,11 @@
 {
   "id": "rawz8vqz9c0",
-  "name": "test",
+  "name": "Some Server",
   "type": "server",
-  "description": "Lorem ipsum dolor sit amet, te qui veri facilisis. Per cu causae eruditi molestie, postea commodo vix cu, mel fugit consul intellegam te. At vis eirmod interesset. Purto voluptatibus eam an.",
+  "description": "Lorem ipsum dolor sit amet, at vel dolorum quaestio euripidis, ei ius euripidis comprehensam, malis equidem in quo. Eam amet percipitur ea, eum et aeque sadipscing. Ei erat appellantur vel, at eum agam noster. Cu agam persius instructior na",
   "media": "",
   "discord": "",
-  "ip": "mc.somewhere.com",
+  "ip": "some.server.com",
   "whitelist": false,
-  "website": "https://somwhere.com"
+  "website": "http://google.com"
 }
