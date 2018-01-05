@@ -1,11 +1,11 @@
 {
-  "id": "rawz8vqz9c1",
+  "id": "rawz8vqz9c2",
   "name": "Some Server",
   "type": "server",
   "description": "Lorem ipsum dolor sit amet, cu erat assum vituperata mea, minim clita vim ea, no nam essent melius. Omnesque disputationi per at, mel ne putent deseruisse, his ea inermis placerat intellegebat. Vix ut fastidii quaerendum, pro mazim tation.",
-  "icon": "",
+  "icon": "http://ocobiega.org/wp-content/uploads/2012/07/Derp-logo.png",
   "media": "https://i.imgur.com/21juSck.jpg",
-  "discord": "http://ocobiega.org/wp-content/uploads/2012/07/Derp-logo.png",
+  "discord": "",
   "ip": "localhost:25565",
   "whitelist": true,
   "website": "https://github.com/dags-"
