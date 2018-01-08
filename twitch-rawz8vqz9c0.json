@@ -1,0 +1,11 @@
+{
+  "id": "rawz8vqz9c0",
+  "type": "twitch",
+  "name": "MrTest",
+  "description": "This is a test.",
+  "icon": "http://localhost:8123/files/form/icon.png",
+  "image": "",
+  "website": "",
+  "discord": "",
+  "tags": "test, doot doot, wut?"
+}
